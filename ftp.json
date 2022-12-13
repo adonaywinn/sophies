@@ -1,0 +1,13 @@
+[
+	{
+		"name": "localhost",
+		"host": "ftp.manabets.kinghost.net",
+		"port": 21,
+		"type": "ftp",
+		"username": "manabets",
+		"password": "",
+		"path": "/home/manabets",
+		"autosave": true,
+		"confirm": true
+	}
+]
